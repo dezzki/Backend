@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day-1/Day 1 Notes.md",
+                "file": "day-2/FastAPI/Fast API Speedrun..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1 Notes"
+              "title": "Fast API Speedrun."
             }
           }
         ]
@@ -176,8 +176,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +200,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45ab64d16f3dcf08",
+  "active": "e8d3a0d3b405a465",
   "lastOpenFiles": [
+    "day-2/JS/JavaScript Speed Run.md",
+    "day-2/FastAPI/Fast API Speedrun..md",
+    "day-2/FastAPI/tutorial/__pycache__/myapi.cpython-312.pyc",
+    "day-2/FastAPI/tutorial/__pycache__",
+    "day-2/FastAPI/tutorial/myapi.py",
+    "day-1/Day 1 Notes.md",
+    "day-2/FastAPI/tutorial",
     "Day 1 Notes.md"
   ]
 }
