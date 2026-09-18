@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day-2/FastAPI/Fast API Speedrun..md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fast API Speedrun."
+              "title": "README"
             }
           }
         ]
@@ -202,6 +202,7 @@
   },
   "active": "e8d3a0d3b405a465",
   "lastOpenFiles": [
+    "README.md",
     "day-2/JS/JavaScript Speed Run.md",
     "day-2/FastAPI/Fast API Speedrun..md",
     "day-2/FastAPI/tutorial/__pycache__/myapi.cpython-312.pyc",
